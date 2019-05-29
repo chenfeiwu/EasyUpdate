@@ -1,0 +1,17 @@
+export default {
+	'menu.log': '日志',
+	'menu.log.upddateLog': '更新日志',
+	'menu.account': '个人页',
+	'menu.account.center': '个人中心',
+	'menu.account.settings': '个人设置',
+	'menu.account.trigger': '触发报错',
+	'menu.account.logout': '退出登录',
+	'menu.server': '服务管理',
+	'menu.update': '更新',
+	'menu.update.list': '更新列表',
+	'menu.update.script': '脚本执行',
+	'menu.server': '服务管理',
+	'menu.server.list': '服务',
+	'menu.monitor': '服务监控',
+	'menu.monitor.list': '监控',
+};
